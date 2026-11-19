@@ -1,0 +1,3 @@
+# Helper script for submitting, not part of the solutions.
+# Keeps GitHub from showing this repo as PowerShell.
+*.ps1 linguist-vendored
